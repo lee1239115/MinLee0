@@ -6,7 +6,7 @@ title: "\U0001F4CA Purdue Courses"
 type: book
 ---
 
-{{< figure src="purduegris.jpg" >}}
+{{< figure src="purduegris.jpg" style = "width:400%">}}
 
 {{< toc hide_on="xl" >}}
 
