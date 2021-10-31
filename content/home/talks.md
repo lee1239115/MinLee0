@@ -12,10 +12,9 @@ weight: 70
 title: 'Conferences'
 subtitle:
 
-content:
-- 2018 INFORMS International Conference, Taiwan, 2018.
-Presentation topic: “Simulation Modeling of a Stroke System of Care: Improving Patient Outcome
-in Rural Communities Through a Modern System-Based Technology” 
+item:
+  - title: 2018 INFORMS International Conference, Taiwan, 2018.
+    description: 'Presentation topic: “Simulation Modeling of a Stroke System of Care: Improving Patient Outcome in Rural Communities Through a Modern System-Based Technology”'
 
 - 2019 OIGP Purdue Spring Reception, Purdue University, 2019.
 Presentation topic: “Quantifying the Impact of Acute Stroke System of Care Protocols on Patient Outcomes” 
