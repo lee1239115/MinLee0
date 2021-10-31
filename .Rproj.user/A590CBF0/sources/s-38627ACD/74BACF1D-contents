@@ -48,6 +48,6 @@ superuser: true
 title: Min Kyung Lee
 ---
 
-Min K. Lee is currently a PhD student in Industrial Engineering and a MS student in Applied Statistics at Purdue University studying under Dr. Yuehwern Yih. Her research interests include stochastic optimization under uncertainty, data-driven decision-making models, mathematical and computational modelling of disease and disease management, issues related to healthcare, specifically through system modelling and decision-making for complex system/operation design and evaluation. She received her B.S. and M.S. degrees in Industrial Engineering from Purdue University.
+Min Kyung Lee is currently a PhD student in Industrial Engineering and a MS student in Applied Statistics at Purdue University studying under Dr. Yuehwern Yih. Her research interests include stochastic optimization under uncertainty, data-driven decision-making models, mathematical and computational modelling of disease and disease management, issues related to healthcare, specifically through system modelling and decision-making for complex system/operation design and evaluation. She received her BS and MS degrees in Industrial Engineering from Purdue University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
