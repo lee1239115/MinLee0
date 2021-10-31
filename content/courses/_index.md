@@ -7,4 +7,4 @@ type: page
 view: 2
 ---
 
-I taught the following courses:
+I taught the following courses as a teaching assistant:

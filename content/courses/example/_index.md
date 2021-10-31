@@ -1,12 +1,12 @@
 ---
 date: "2021-01-24"
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "\U0001F4CA Learn Data Science"
+linkTitle: Purdue Courses
+summary: A list of Purdue Courses I taught as a teaching assistant.
+title: "\U0001F4CA Purdue Courses"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="purduegris.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
