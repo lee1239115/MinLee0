@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2686421610",
     "id" : "249B3408",
-    "lastKnownWriteTime" : 1635699731,
-    "last_content_update" : 1635699731270,
+    "lastKnownWriteTime" : 1635701084,
+    "last_content_update" : 1635701084036,
     "path" : "~/MinLee0/config.yaml",
     "project_path" : "config.yaml",
     "properties" : {
-        "cursorPosition" : "14,26",
-        "scrollLine" : "7"
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
