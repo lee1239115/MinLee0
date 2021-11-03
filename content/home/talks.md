@@ -1,20 +1,24 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: experience
 
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 70
+date_format: Jan.2006
 
 title: 'Conferences'
-subtitle:
 
-item:
-  - title: 2018 INFORMS International Conference, Taiwan, 2018.
-    description: 'Presentation topic: “Simulation Modeling of a Stroke System of Care: Improving Patient Outcome in Rural Communities Through a Modern System-Based Technology”'
+experience:
+  - title: '2018 INFORMS International Conference'
+    company: 'INFORMS'
+    company_url: ''
+    location: 'Taipei, Taiwan'
+    date_start: '2018-06-17'
+    date_end: '2018-06-20'
+    description: Presentation topic: “Simulation Modeling of a Stroke System of Care: Improving Patient Outcome in Rural Communities Through a Modern System-Based Technology
+        
 
   - 2019 OIGP Purdue Spring Reception, Purdue University, 2019.
     description: 'Presentation topic: “Quantifying the Impact of Acute Stroke System of Care Protocols on Patient Outcomes”' 
