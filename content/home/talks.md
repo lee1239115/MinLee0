@@ -1,15 +1,24 @@
----
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: talks
 widget: experience
 
 # This file represents a page section.
 headless: true
 
-date_format: Jan.2006
+# Order that this section appears on the page.
+weight: 40
 
-title: 'Conferences'
+title: Conferences
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 
 experience:
   - title: '2018 INFORMS International Conference'
